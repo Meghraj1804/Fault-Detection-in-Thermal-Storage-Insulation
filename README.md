@@ -60,6 +60,7 @@ a. **Gradient Boosting Machine (GBM) –**
 - A Gradient Boosting Machine or GBM combines the predictions from multiple decision trees to generate the final predictions.
 - All the weak learners in a gradient boosting machine are decision trees.
 - Gradient boosting gives us **(88%)** accuracy.
+
 b. **Extreme Gradient Boosting Machine (XGBM) –** 
 - To improve results we use XGBoost algorithm. XGBoost also includes a variety of regularization techniques that reduce overfitting and improve overall performance. 
 - XGBoost gives us **(96.82%)** accuracy.
